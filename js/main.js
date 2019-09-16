@@ -1,5 +1,7 @@
 jQuery(document).ready(function($){
 
+    // $(".header-area").sticky({ topSpacing: 0 });
+
     // $('select').niceSelect();
 
     // homepage-slides

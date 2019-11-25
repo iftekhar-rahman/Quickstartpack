@@ -14,7 +14,8 @@ jQuery(document).ready(function($){
     //     navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
 	// });
 
-    
+        // perfectScrollbar
+        // $(".nice-select .list").perfectScrollbar();
 
     // $("#range_49").ionRangeSlider({
     //     type: "single",
